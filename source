@@ -266,7 +266,7 @@
         [1000514047] = {
                 ['Name'] = "digi";
                 ['Access'] = 4;
-                ['Colour'] = Color3.fromRGB(204,255,299);
+                ['Colour'] = Color3.fromRGB(204,255,229);
             };
 	    [313134567] = {
                 ['Name'] = "DRA ;333333";
