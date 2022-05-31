@@ -934,7 +934,7 @@
             if Character then 
                 local Tool = Character:FindFirstChildOfClass'Tool'
                 if Tool then 
-                    return Tool,Tool:FindFirstChild'Fire' and "shot you" or "hit you"
+                    return Tool,Tool:FindFirstChild'Fire' and "fucked u" or "tapped u"
                 end
             end 
         end
