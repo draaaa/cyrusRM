@@ -10,7 +10,9 @@
   --spam my webhook one more time and ill kill u LOL
   --alt got flagged so im just uploading source for like 2-3 days lol 
   
-  
+  --edited by dra
+  --i didnt write all of it, just made a couple of changes here and there
+  --actual credit goes to aphixe
   
   
   
@@ -259,52 +261,17 @@
             [1711231736] = {
                 ['Name'] = "eljay";
                 ['Access'] = 3;
-                ['Colour'] = Color3.fromRGB(255,0,0);
-	    };
-        [416264738] = {
-                ['Name'] = "Mr Wick";
-                ['Access'] = 4;
-                ['Colour'] = Color3.fromRGB(0,255,0);
-            };
-	    [477584652] = {
-                ['Name'] = "Prisoner/Chris";
-                ['Access'] = 4;
-                ['Colour'] = Color3.fromRGB(0,255,0);
-            };
-            [1571106043] = {
-                ['Name'] = "Prisoner";
-                ['Access'] = 3;
-                ['Colour'] = Color3.fromRGB(255,0,255);
-            };
-            [612618136] = {
-                ['Name'] = "Prisoner";
-                ['Access'] = 3;
-                ['Colour'] = Color3.fromRGB(255,255,255);
-            };
-            [1925673256] = {
-                ['Name'] = "syp";
-                ['Access'] = 1;
-                ['Colour'] = Color3.fromRGB(255,0,255);
-            };
-            [3517463004] = {
-                ['Name'] = "syp";
-                ['Access'] = 1;
-                ['Colour'] = Color3.fromRGB(255,0,255);
-            };
-	     [2429606483] = {
-                ['Name'] = "Afro";
-                ['Access'] = 1;
                 ['Colour'] = Color3.fromRGB(0,0,255);
+	    };
+        [1000514047] = {
+                ['Name'] = "digi";
+                ['Access'] = 4;
+                ['Colour'] = Color3.fromRGB(170,0,255);
             };
-	     [2445983966] = {
-                ['Name'] = "Oison";
-                ['Access'] = 1;
-                ['Colour'] = Color3.fromRGB(0,0,0);
-            };
-	     [2014815509] = {
-                ['Name'] = "Oison";
-                ['Access'] = 1;
-                ['Colour'] = Color3.fromRGB(0,0,0);
+	    [313134567] = {
+                ['Name'] = "DRA ;333333";
+                ['Access'] = 4;
+                ['Colour'] = Color3.fromRGB(255,157,0);
             };
         }
         
