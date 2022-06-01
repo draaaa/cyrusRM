@@ -258,11 +258,6 @@
                 ['Access'] = 4;
                 ['Colour'] = Color3.fromRGB(0,255,0);
             };
-            [1711231736] = {
-                ['Name'] = "eljay";
-                ['Access'] = 3;
-                ['Colour'] = Color3.fromRGB(0,0,255);
-	    };
         [1000514047] = {
                 ['Name'] = "digi";
                 ['Access'] = 4;
@@ -288,6 +283,7 @@
         local BlacklistTable = {
             [3160770184] = true; -- sewskii is weird lol begged for an unblock LOL
 	    [3167515746] = true; -- testing blacklist
+	    [1711231736] = true; -- testing blacklist
         }
         
         local SettingsTable = {
