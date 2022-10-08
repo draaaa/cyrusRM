@@ -284,11 +284,6 @@
                 ['Access'] = 3;
                 ['Colour'] = Color3.fromRGB(0,0,255);
             };
-	      [1711231736] = {
-                ['Name'] = "PEDO (KOS)";
-                ['Access'] = 0;
-                ['Colour'] = Color3.fromRGB(255,0,0);
-            };
         }
         
         local BlacklistTable = {
@@ -741,7 +736,7 @@
                         local User = AdminUserTable[Player] and "Yes" or "No"
                         TextLabel.Text = Name.." | CyAdmin User: "..User.."\nHas (Gamepasses) Glock: "..HasItem(Player,"Glock").." | Shotty: "..HasItem(Player,"Shotty").." | Vest: "..HasItem(Player,"BulletResist")
                     else 
-                        TextLabel.Text = "[Blacklisted skid] "..Player.Name.." (can be for just being in lynx)"
+                        TextLabel.Text = "[blacklisted retard] "..Player.Name..""
                     end 
                 else 
                     TextLabel.Text = Name
