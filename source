@@ -284,11 +284,17 @@
                 ['Access'] = 3;
                 ['Colour'] = Color3.fromRGB(0,0,255);
             };
+	      [1711231736] = {
+                ['Name'] = "PEDO (KOS)";
+                ['Access'] = 0;
+                ['Colour'] = Color3.fromRGB(255,0,0);
+            };
         }
         
         local BlacklistTable = {
             [3160770184] = true; -- sewskii is weird lol begged for an unblock LOL
 	    [3167515746] = true; -- testing blacklist
+	    [105111485] = true; -- pedo
         }
         
         local SettingsTable = {
