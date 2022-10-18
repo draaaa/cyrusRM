@@ -269,7 +269,7 @@
                 ['Colour'] = Color3.fromRGB(0,255,0);
             };
 	     [387061363] = {
-                ['Name'] = "qnnn";
+                ['Name'] = "qnnn (EXTREMELY HOMOSEXUAL)";
                 ['Access'] = 4;
                 ['Colour'] = Color3.fromRGB(255,20,147);
             };
@@ -290,7 +290,6 @@
             [3160770184] = true; -- sewskii is weird lol begged for an unblock LOL
 	    [3167515746] = true; -- testing blacklist
 	    [105111485] = true; -- pedo
-	    [387061363] = true; --FUCKING GAY AS SHIT
         }
         
         local SettingsTable = {
